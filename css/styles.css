@@ -1,0 +1,60 @@
+#title{
+  background-color: #4C4C6D;
+  color:#fff;
+}
+
+.navbar-brand{
+  font-family: ubunt;
+  padding: 3%;
+  font-weight:bold;
+}
+.row{
+  padding:5%;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size:3.5rem;
+  line-height:1.5;
+}
+.container-fluid{
+  padding:1% 1%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.nav-item{
+  padding: 1% 18px;
+}
+.nav-link{
+font-family: 'Montserrat', sans-serif;
+}
+.Download-button{
+margin: 5% 3% 5% 1%;
+}
+
+.img-title{
+ width:300px;
+
+}
+#features{
+  padding: 3% 2%;
+}
+.feacture-box{
+  text-align: center;
+}
+h3{
+  font-family: fantasy;
+}
+p{
+  color:blue;
+}
+.fas{
+  color: red;
+  margin-bottom: 2rem;
+}
+.fas:hover{
+  color: green;
+}
